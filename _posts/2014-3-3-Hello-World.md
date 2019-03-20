@@ -14,5 +14,5 @@ $$
 a&=b+c\\
 &=e+f \label{gf}
 \end{align}
-In equation \eqref{gf} is ok
 $$
+In equation \eqref{gf} is ok
